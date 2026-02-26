@@ -47,6 +47,7 @@ New-NetFirewallRule -DisplayName "Cube.exe Inbound" -Direction Inbound -Program 
 
 Or for ports: 
 New-NetFirewallRule -DisplayName "Cube World TCP" -Direction Inbound -Protocol TCP -LocalPort 12345 -Action Allow
+
 New-NetFirewallRule -DisplayName "Cube World UDP" -Direction Inbound -Protocol UDP -LocalPort 12345 -Action Allow
 
 Why both TCP and UDP: TCP for reliable connection, UDP for fast real-time data (game state, movement). Game servers often use both
