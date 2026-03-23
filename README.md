@@ -1,6 +1,6 @@
 # Cybersecurity Notes & Portfolio
 
-SOC L1 analyst in training. This repository contains hands-on notes,
+Cybersecurity Master's student building a SOC analyst portfolio. This repository contains hands-on notes,
 cheatsheets, lab write-ups and scripts from my cybersecurity learning journey.
 
 ## Contents
