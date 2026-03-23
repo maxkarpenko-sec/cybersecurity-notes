@@ -1,6 +1,6 @@
 # Cybersecurity Notes & Portfolio
 
-SOC L1 analyst in training. This repository contains hands-on notes, 
+SOC L1 analyst in training. This repository contains hands-on notes,
 cheatsheets, lab write-ups and scripts from my cybersecurity learning journey.
 
 ## Contents
@@ -18,9 +18,12 @@ cheatsheets, lab write-ups and scripts from my cybersecurity learning journey.
 - Log Analysis - Compromised WordPress
 - Network Analysis - Malware Compromise
 
+### Notes
+- Weeks 1-9: Networking, Nmap, Linux, Windows, Attacks, Web/Crypto, SOC/SIEM, Vulnerability Management
+
 ### Cheatsheets
 - Windows Event IDs
-- Nmap, Wireshark, Ports
+- Nmap, Wireshark Cases and Filters, Ports
 - Linux Commands
 
 ### Scripts
