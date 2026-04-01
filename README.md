@@ -1,6 +1,6 @@
 # Cybersecurity Notes & Portfolio
 
-Cybersecurity Master's student building a SOC analyst portfolio. This repository contains hands-on notes,
+Building a SOC analyst portfolio. This repository contains hands-on notes,
 cheatsheets, lab write-ups and scripts from my cybersecurity learning journey.
 
 ## Contents
